@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bank Management System with Users\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E8DE83-AB48-4942-A96A-77469971B153}|Bank Management System with Users.vcxproj|D:\\Bank Management System with Users\\Bank Management System with Users.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36E8DE83-AB48-4942-A96A-77469971B153}|Bank Management System with Users.vcxproj|solutionrelative:Bank Management System with Users.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank Management System with Users.cpp",
+              "DocumentMoniker": "D:\\Bank Management System with Users\\Bank Management System with Users.cpp",
+              "RelativeDocumentMoniker": "Bank Management System with Users.cpp",
+              "ToolTip": "D:\\Bank Management System with Users\\Bank Management System with Users.cpp",
+              "RelativeToolTip": "Bank Management System with Users.cpp",
+              "ViewState": "AgIAAHMDAAAAAAAAAAAAAMEEAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-23T19:41:52.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

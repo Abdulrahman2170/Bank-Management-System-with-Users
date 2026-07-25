@@ -1,0 +1,3 @@
+﻿  Bank Management System with Users.cpp
+D:\Bank Management System with Users\Bank Management System with Users.cpp(143,24): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  Bank Management System with Users.vcxproj -> D:\Bank Management System with Users\x64\Debug\Bank Management System with Users.exe
